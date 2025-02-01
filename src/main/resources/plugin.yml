@@ -1,0 +1,8 @@
+name: MagicWandPlugin
+version: 1.0
+main: com.br.riccskn.Main
+api-version: 1.16
+commands:
+  givewand:
+    description: Gives you a magic wand.
+    usage: /givewand

@@ -1,0 +1,4 @@
+arenas:
+  test:
+    max_players: 3
+    min_players: 2

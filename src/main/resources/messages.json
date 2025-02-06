@@ -1,5 +1,0 @@
-{
-  "player_join_arena": "[{count}/{max_count}] riccskn joined the match",
-  "player_left_arena": "[{count}/{max_count}] riccskn left the match",
-  "player_eliminated_arena": "[{count}/{max_count}] riccskn has been eliminated"
-}
